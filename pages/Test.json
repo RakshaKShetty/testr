@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 822,
+          "rightColumn": 816,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -212,12 +212,37 @@
                 "step": 62,
                 "status": 75
               }
+            },
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder1",
+              "rightColumn": 55,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "auc9ec2wkx",
+              "topRow": 17,
+              "bottomRow": 25,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 39,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "7hwl9e4h88"
             }
           ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
           "Camera1",
+          "AudioRecorder1",
           "MainContainer",
           "Table1"
         ],
@@ -241,7 +266,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 822,
+          "rightColumn": 816,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -445,12 +470,37 @@
                 "step": 62,
                 "status": 75
               }
+            },
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder1",
+              "rightColumn": 55,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "auc9ec2wkx",
+              "topRow": 17,
+              "bottomRow": 25,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 39,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "7hwl9e4h88"
             }
           ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
           "Camera1",
+          "AudioRecorder1",
           "MainContainer",
           "Table1"
         ],
