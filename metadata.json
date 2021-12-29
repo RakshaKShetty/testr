@@ -1,0 +1,19 @@
+{
+  "publishedDefaultPageName": "Test",
+  "unpublishedDefaultPageName": "Test",
+  "actionCollectionList": [],
+  "editModeTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": []
+  },
+  "publishedTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": []
+  },
+  "publishedLayoutmongoEscapedWidgets": {},
+  "unpublishedLayoutmongoEscapedWidgets": {}
+}
