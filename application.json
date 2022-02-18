@@ -1,5 +1,4 @@
 {
-  "name": "Untitled application 3",
   "isPublic": false,
   "viewMode": false,
   "appIsExample": false,
@@ -8,8 +7,6 @@
   "icon": "pizza",
   "slug": "untitled-application-3",
   "evaluationVersion": 2,
-  "publishedModeThemeId": "61c57741db67aa7828fd7472",
-  "editModeThemeId": "61c57741db67aa7828fd7472",
   "createdAt": {
     "seconds": 1640342829,
     "nanos": 92000000
