@@ -18,16 +18,15 @@
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "formData": {
-        "command": "RAW",
-        "updateMany": {
-          "limit": "SINGLE"
+        "command": {
+          "data": "RAW",
+          "viewType": "component",
+          "componentData": "RAW"
         },
-        "delete": {
-          "limit": "SINGLE"
-        },
-        "smartSubstitution": true,
-        "aggregate": {
-          "limit": "101"
+        "smartSubstitution": {
+          "data": true,
+          "viewType": "component",
+          "componentData": true
         }
       }
     },
